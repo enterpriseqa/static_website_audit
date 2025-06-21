@@ -153,4 +153,3 @@ dependencies:
       - websockets==15.0.1
       - yfinance==0.2.63
       - zstandard==0.23.0
-prefix: /home/vuswati/anaconda3/envs/remote_qa
