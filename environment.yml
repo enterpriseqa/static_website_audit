@@ -1,4 +1,4 @@
-name: remote_qa
+name: static_website_audit
 channels:
   - defaults
 dependencies:
